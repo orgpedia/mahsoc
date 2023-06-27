@@ -1,4 +1,11 @@
 # Page 1
+-------------------------------------------------
+| अनुसूचित जाती व नवबौध्द मुलांच्या शासकीय |
+| निवासी शाळेसाठी २०० विद्यार्थी क्षमतेचे वसतिगृह |
+| ता. शिरोळ जि. कोल्हापूर येथील शासकीय |
+| वसतीगृह इमारतीचे बांधकामाच्या अंदाजपत्रकास |
+| प्रशासकीय मान्यता देण्याबाबत. |
+-------------------------------------------------
 महाराष्ट्र शासन
 सामाजिक न्याय व विशेष सहाय्य विभाग
 शासन निर्णय क्रमांक: बीसीएच-२०२०/प्र.क्र.१९९/बांधकामे
@@ -31,9 +38,67 @@
 ३० सार्वजनिक बांधकाम विभागाने छाननीअंती Recapitulation Sheet प्रमाणे प्रस्तावित करण्यात
 आलेल्या रू.१४,७१,३५,२२४/- (अक्षरी रूपये चौदा कोटी एकाहत्तर लक्ष पस्तीस हजार दोनशे चोवीस
 फक्त) इतकी रक्कम परिगणीत करण्यात आली असून Recapitulation Sheet पुढीलप्रमाणे आहे.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Name of the Department : SOCIAL JUSTICE DEPTT. |
+| Name of Work : Construction of Student Hostel Building (Capacity 200) for social justice Dept. Shirol, Dist-Kolhapur |
+| RECAPITULATION SHEET |
+| Sr. No. | Particulars of Items | Norms (Unit Rate Rs. per Sqmt./Meter/LumpSum etc.) | Cost Rs. |
+| Component | Total |
+| (A) | ESSENTIAL ITEMS (Components) |
+| 1 | (a) Building Proper (Build up area-sq.m) Ground + 03 Floor 3565.73 | Sq.M 23,000 | 8,20,11,790 |  |
+| Total B.U.A. = 3565.73 |  | sub Total (a) | 8,20,11,790 |
+| (b) Fuel Gas Pipeline (c ) Bio Digester (d)Rain/Roof Water Harvesting (e ) Solar Roof Top (MoU to be executed) (f) Ramp For Handicaps (g) Furniture 3565.73 x 70% =2496.01 | Rs.5000/- per sq.m | 0 5,00,000 10,00,000 2,00,000 1,24,80,055 |  |
+| Sub Total (b+c+d+e+f+g) |  | 1,41,80,055 |
+| 2 | Water Supply and Sanitation | 5% - of (a ) | sub Total (2) | 41,00,590 |
+| 3 | Electrification Internal External Fire Fighting Arrangements etc. | 5% of (a ) 6% of (a) | 41,00,590 49,20,707 20,00,000 |  |
+| sub Total (3) | 1,10,21,297 |
+|  |  | Sub Total (A) |  | 11,13,13,731 |
+| 4 | Miscellaneous Items |  |  |  |
+| (i)Compound Wall and Gate (Rmt) | 400 8000 | 32,00,000 |  |
+| (ii)Internal Roads ( Rmt) | 300 5000 | 15,00,000 |  |
+| (iii)Development of Ground, Horticulture | LS | 1,00,000 |  |
+| (iv)Parking | LS | 2,00,000 |  |
+| (v)Rataining Wall |  |  |  |
+| (vi)Land Scaping | LS | 2,00,000 |  |
+| (vii) Soil Investigations and Detail Land Survey | LS | 2,00,000 |  |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः बीसीएच-२०२०/प्र.क्र.१९९/ बांधकामे
+-----------------------------------------------------------------
+|  | (viii) CC Drains and C/D Works |  | 0 |  |
+|  |  | sub Total (B) | 54,00,000 |
+|  | Sub Total (A) = (1)+(2)+(3)+(B) |  | 11,67,13,731 |
+| (C) | OPTIONAL ITEMS |  |  |  |
+|  | (1)Underground Water Tank for R/W Harvesting (Cu.M) |  | 2,00,000 |  |
+| (2)Water Main Storage and pump house, bore well etc. |  | 3,00,000 |  |
+| (3)Air Conditioning |  | 0 |  |
+| (4)Lifts |  | 0 |  |
+| (5) External Toilets |  | 0 |  |
+| (6)AB Room, Area lighting. Pumps,Generator |  | 5,00,000 |  |
+| (7)CCTV |  | 2,00,000 |  |
+| (8)Gardening/Plantation of Trees |  | 0 |  |
+|  | subtotal (C) |  | 12,00,000 |
+|  | PROJECT COST(P) = (A) + (B) +(C)_ |  | 11,79,13,731 |
+| (D) | PROVISIONS |  |  |
+|  | (i) Contingencies 4% for (a ) | 32,80,472 |  |
+|  | (ii) GST 12% on (P) | 1,41,49,648 |  |
+|  | (iii) Price Escalation 10% on (P) | 1,17,91,373 |  |
+|  | Sub Total (D) |  | 2,92,21,493 |
+|  | TOTAL COST OF PROJECT (TPC) (A+B+C+D) |  | 14,71,35,224 |
+|  | Say Rs. Lakhs |  | 1471.35 |
+-----------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | PLINTH AREA RATES FOR |  |  |  |  |  |
+|  | (i) Bldg Proper Cost | Rs | 23,000 | /Sqm |  |  |
+|  | (ii) Elect. Work | Rs | 3091 | /Sqm |  |  |
+|  | (iii) Water Supply | Rs | 1,150 | /Sqm |  |  |
+|  | (iv) For (i) + (ii) + (iii) | Rs | 27,241 | /Sqm |  |  |
+|  |  |  |  |  |  |  |
+|  | (v) Total Project Cost = TPC : Area ( as per "a") | '= Rs | 41264 | /- Sqm |  |
+|  |  |  |  |  |  |  |
+|  | * No expenditure of Govt. involved as will be installed by entrepreneur and reduced energy bills will be paid by user departments to the entrepreneur as repayment for the expenditure incurred on the installation. |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ४. यावर होणारा खर्च मागणी क्र. एन-४, सार्वजनिक बांधकाम विभाग, मुख्य लेखाशीर्ष ४२२५
 अनुसूचित जातीच्या व नवबौध्दांच्या मुलामुलींकरीता शासकीय निवासी शाळा बाधंणे (अ.जा.उ.यो.)
 (कार्यक्रम) ५३, मोठी बांधकामे लेखाशिर्ष ४२२५ ०५०५ या लेखाशीर्षाखाली खर्ची घालून तो सन

@@ -1,4 +1,11 @@
 # Page 1
+-----------------------------------------------------
+| भारतरत्न डॉ. बाबासाहेब आंबेडकर यांच्या १२५ व्या |
+| जयंती वर्षानिमित्त १०० क्षमतेचे मागासवर्गीय मुलींचे |
+| शासकीय वसतिगृह, सातारा, जि. सातारा येथील |
+| वसतीगृह इमारतीच्या बांधकामाच्या अंदाजपत्रकास |
+| प्रशासकीय मान्यता देण्याबाबत. |
+-----------------------------------------------------
 महाराष्ट्र शासन
 सामाजिक न्याय व विशेष सहाय्य विभाग
 शासन निर्णय क्रमांक: सान्यावि-२०२२/प्र.क्र.१३०/बांधकामे
@@ -30,6 +37,46 @@
 पृष्ठ ५ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः सान्यावि-२०२२/प्र.क्र.१३०/बांधकामे
+----------------------------------------------------------------------------------------------------------------------------
+| Name of the Department: SOCIAL JUSTICE DEPTT. |
+| Name of Work : Construction of 100 Girls Hostel Building at C.T.S. 409/9B, Sadarbazar, Satara, Dist.Satara |
+| RECAPITULATION SHEET |
+| Sr. No. | Particulars of Items | Unit Rate Norms Rs per (Sqmt./Meter/LumpSum etc.) | Cost Rs. |
+| Component Wise | Total |
+| (A) | ESSENTIAL ITEMS (Components) |
+| 1 | (a)Building Proper (Build up area-sq.m) Ground Floor 1281.63 First Floor 1246.35 | 27000 27000 | 3,46,04,010 3,36,51,450 |  |
+| Total B.U.A. = 2527.98 | sub Total (a) | 6,82,55,460 |
+| (b) Rain/Roof Water Harvesting |  |  | 5,00,000 |  |
+| (c) Furniture 2527.98 x.70% = 1770 | 1770 | 5000 | 88,50,000 |
+| (d) Ramp For Handicaps |  | LS | 2,00,000 |
+|  |  | Sub Total (b+c+d) |  | 95,50,000 |
+| 2 | Water Supply and Sanitary Works | 5% of 1 (a) | Sub Total(2) | 34,12,773 |
+| 3 | Electrification Internal External Fire Fighting Arrangements etc. | 5% of 1 (a) 6% of 1 (a) | 34,12,773 40,95,328 25,00,000 |  |
+| Sub Total (3) | 1,00,08,101 |
+|  |  | Sub Total (A) |  | 9,12,26,334 |
+| (B) | Miscellaneous Items |  |  |  |
+| (i)Compound Wall and Gate (Rmt) | LS | 75,00,000 |  |
+| (ii) Internal Roads (Rmt) | LS | 35,00,000 |  |
+| (iii)Development of Ground | LS | 2,00,000 |  |
+| (iv)Rataining Wall and CD Work | LS | 25,00,000 |  |
+|  |  | Sub Total (B) | 1,37,00,000 |
+|  | Sub Total (1)+(2)+(3)+(B) |  | 10,49,26,334 |
+| (C) | OPTIONAL ITEMS |  |  |  |
+|  | (1)Underground Water Tank for R/W Harvesting |  | 20,00,000 |  |
+| (2)AB Room, Area lighting, Pumps, Generator |  | 20,00,000 |  |
+| (3) CCTV |  | 5,00,000 |  |
+| (4)Lightening Arrester |  | 3,00,000 |  |
+|  | Sub Total (C) | 48,00,000 |  |
+|  | PROJECT COST(P) = (A) + (B) +(C) |  | 10,97,26,334 |
+| (D) | PROVISIONS |  |  |
+|  | (i)Contingencies 4% on (a) | 27,30,218 |  |
+|  | (ii) GST 12% on (P) | 1,31,67,160 |  |
+|  | (iii) Price Escalation 5% on (P) | 54,86,317 |  |
+|  | (iv) Labour Insurance 0.5% on (P) | 5,48,632 |  |
+|  | Sub Total (D) |  | 2,19,32,327 |
+|  | TOTAL COST OF PROJECT (TPC) (A+B+C+D) |  | 13,16,58,660 |
+|  | Say Rs. Lakhs |  | 1316.59 |
+----------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः सान्यावि-२०२२/प्र.क्र.१३०/बांधकामे

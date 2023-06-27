@@ -33,9 +33,50 @@
 यांनी तात्काळ करावी.
 ३. प्रस्तुत प्रस्तावाची Recapitulation Sheet खालीलप्रमाणे आहे.
 Name of work:-Construction of Babasaheb Ambedkar Government Hostel (Social Welfare Department )For Backward Students at Dharni (G+1) (Capacity-75 Students. Dharni Dist. Amravati
+---------------------------------------------------------------------------
+| A) |  | Cost of Building |  |
+|  |  | Hostel building |  |
+|  |  | Built Up Area=2466.46sqm |  |
+|  |  | Built Up Area Rate = 36905Rs / Sqm |  |
+|  |  | *Above details to be given for each building proposed in the estimate |  |
+|  |  | Cost of total building to be constructed Total A | 78341571.00 |
+| B) |  | Electrification |  |
+|  | 1 | 5% Internal Electrification&6%External Electrification |  |
+|  | Including transformer,MSEB charges,street light Etc11%on A | 8617573.00 |
+|  | 2 | Ext.Water Supply & Sanitation 8% on A | 6267326.00 |
+|  | 3 | Construction of Internal Road: concrete Pavement/Bituminous | 1270500.00 |
+|  | Length=100m Avg Widh=3.75m Cost/Rent=3388.00Rs/Sqm |  |
+|  | 4 | Furniture(4% Of A ) | 3133663.00 |
+|  | 5 | Construction of Compound Wall-Brick/Block/R.C.C. | 3993000.000 |
+|  | Length=m Average Height=m Rate / Rmt = Rs / m |  |
+---------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः बीसीएच-२०२३/प्र.क्र.७३/बांधकामे
+----------------------------------------------------------------
+|  | 6 | Water Proofing | 2685997.00 |
+|  | 7 | Land Development and Aboriculture(L.S) |  |
+|  | Plot Area=1600.00sq.m. Cost per sq.m=1000Rs/Sqm | 1600000.000 |
+|  | 8 | Parking Arrangment-Cycle Stand | 1000000.00 |
+|  | 9 | Ramp For Handicapped | 500000.00 |
+|  | 10 | Bore Wall GSR | 1000000.00 |
+|  | 11 | Plinth Protection (1% Of A) | 783415.71 |
+|  | 12 | Soil Investigation (L.S.) | 300000.00 |
+|  | 13 | Fire Fighting & arrangement | 200000.00 |
+|  | 14 | Solar Energy System (L.S) | 500000.00 |
+|  | 15 | Rain Water Harvesting (L.S) | 500000.00 |
+|  |  | Total(B)  |  | 32351474.71 |
+|  |  | Total c =A+B | 110693045.71 |
+| C) |  | Add 10% for Price Escalation on C | 11069305.00 |
+| D) |  | Add 1% for Royalty Charges on C | 1106930.00 |
+| E) |  | Add 4% for contingencies Charges on C | 4427722.00 |
+| F) |  | Add 1.00 for insurance charges on C | 1106930.00 |
+| G) |  | Add1.5% for quality control&testing on C | 1660396.00 |
+| H) |  | Add for GST@18% on totl construction cost On C | 19924748.00 |
+|  |  | Total(D)  |  | 39296031.00 |
+|  |  | Grand total (C) +(D)  |  | 149989076.71 |
+|  |  | Say Rs | 149989077.00 |
+----------------------------------------------------------------
 ४. या वर होणारा खर्च मागणी क्र. एन-४, मुख्य लेखाशिर्ष ४२२५- अनुसूचित जाती, अनुसूचित जमाती आणि इतर मागासवर्ग यांच्या कल्याणावरील भांडवली खर्च, २७७- शिक्षण, पंचवार्षिक
 योजना अंतर्गत योजना राज्य योजनांतर्गत योजना, (०१) (०३) मागासवर्गीय मुलां-मुलींसाठी
 शासकीय वसतीगृह बांधणे (४२२५ ०४८१), ५३-मोठी बांधकामे या लेखाशीर्षाखाली खर्ची घालून तो

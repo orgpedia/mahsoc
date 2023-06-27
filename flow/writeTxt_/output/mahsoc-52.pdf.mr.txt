@@ -35,9 +35,70 @@
 तीस हजार चारशे ऐंशी फक्त) इतकी रक्कम परिगणीत करण्यात आली असून Recapitulation
 Sheet पुढीलप्रमाणे आहे.
 Recapitulation Sheet
+---------------------------------------------------------------------------------------------------------------------------------------
+| Name of Department- Social Justice and Special Assistance Department |
+| Name of Work- Construction of 100 Students (Boys) Hostel Building for department of Social Justice Gunawadi, Tal- Baramati Dist- Pune |
+| Sr.No. | Particulars of Scope | Unit Rate Norms Rs per (sqmt/ Meter/Lumsump etc.) | Cost Rs. |
+| Component Wise | Total |
+| (A) | ESSENTIAL ITEMS (Components) |  |  |  |  |
+| 1 | (a) Building Proper (Build up Area Sqm. |  |  |  |  |
+|  | Basement |  |  |  |  |
+|  | Stilt Floor |  |  |  |  |
+|  | Ground Floor (including plinth protection |  |  |  |  |
+|  | 1st floor |  |  |  |  |
+|  | Total B.U.A. 2364.88 sqm |  |  |  |  |
+|  |  | 27,604 | Sqm | Sub Total (1) | 65,280,645.00 |
+|  | (b) Fuel Gas pipeline |  |  |  | 1,00,000.00 |
+|  | O Bio Digester | as per est. |  |  | 4,66,876.00 |
+|  | (d)Rain/roof water harvesting | as per est. |  |  | 5,12,055.00 |
+|  | (e) Solar roof top (MoU) to be executed | as per est. from Electrical Department | 5,71,430.00 |
+|  | solar water heater system | as per est. from Electrical Department | 7,00,000.00 |
+|  | (f)Ramp for Handicaps |  |  |  |  |
+|  | (g) Furniture Rs.5000.00 SqM | 1444.22 | Sqm |  | 24,00,000.00 |
+|  | Carpet Area = 1661.8 SqM |  |  |  |  |
+|  |  | Sub Total (b+c+d+e+f+g) |  | 47,50,361.00 |
+| 2 | Water Supply and sanitary works |  | sub Total (2) | 39,59,509.35 |
+| 3 | Electrification Internal | per estimate electrical dept. |  | 87,10,920.00 |
+|  | External |  |  |
+|  | Fire Fighting Arrangement etc. |  |  |  |
+|  |  |  | Sub Total (3)  |  | 87,10,920.00 |
+|  |  | Sub Total (A) |  | 82,701,435.35 |
+---------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ५ पैकी ३
 # Page 4
 शासन निर्णय क्रमांकः बीसीएच-२०२०/प्र.क्र.६०/बांधकामे
+----------------------------------------------------------------------------------------------------
+| (B) | Miscellaneous Items |  |  |  |  |
+|  | 1.Compound wall and Gate (Rmt) | as per est. |  |  | 27,84,494.00 |
+|  | 2. Internal Road (Rmt) | as per est. |  |  | 46,87,555.00 |
+|  | 3.Parking |  |  |  |  |
+|  | 4.Retaining wall |  |  |  |  |
+|  | 5.Land Scaping | as per est. |  |  | 30,00,000.00 |
+|  | 6.Soil Investigation and Detail Land Survey |  |  |  |  |
+|  | 7.CC Drains and CD Works. Septic tanks | as per est. |  |  | 2,25,470.00 |
+|  |  | Sub Total (B) |  | 1,06,97,519.00 |
+|  |  | Sub Total = (1+2+3+B) |  | 8,86,48,593.35 |
+| (C) | Optional Items |  |  |  |  |
+|  | 1.Underground RCC_water tanks for Rain water Harvesting (cum),sump well | as per est. |  |  | 8,12,023.00 |
+|  | 2.water main storage pump house and |  |  |  |  |
+|  | 3. Air conditioner |  |  |  |  |
+|  | 4.Lift (2 Nos) |  |  |  |  |
+|  | 5.External Toilet |  |  |  |  |
+|  | 6.AB room, area lighting, pumps |  |  |  |  |
+|  | Street light and Garden light |  |  |  |  |
+|  | 7.CCTV, Television and Telephone |  |  |  |  |
+|  |  | Sub Total (C) |  | 8,12,023.00 |
+|  |  | Project Cost (P) = ( A+B+C) | 9,42,10,977.35 |
+| (D) | Provisions |  |  |  |  |
+|  | 1.Contingencies 4% on (A) |  | 33,08,058.00 |
+|  | 2.Green Building 5% on (A) |  | 41,35,072.00 |
+|  | 3.GST 12% on (P) |  | 1,13,05,318.00 |
+|  | 4.Price Escalation 10% on (P) |  |  |
+|  | 5.Add Insurance 0.5% on (P) |  | 4,71,055.00 |
+|  | Sub Total (D) |  | 1,92,19,503.00 |
+|  | Total Cost of Project (TPC) in Rs.= (A+B+C+D)  |  | 11,34,30,480.35 |
+|  | Say in Lakhs | 1134.30 |
+----------------------------------------------------------------------------------------------------
 ५. या वर होणारा खर्च मागणी क्र. एन-४, मुख्य लेखाशिर्ष ४२२५ - अनुसूचित जाती,
 अनुसूचित जमाती आणि इतर मागासवर्ग यांच्या कल्याणावरील भांडवली खर्च, २७७-शिक्षण,
 पंचवार्षिक योजनां अंतर्गत योजना राज्य योजनांतर्गत योजना, (०१) (०३) मागासवर्गीय

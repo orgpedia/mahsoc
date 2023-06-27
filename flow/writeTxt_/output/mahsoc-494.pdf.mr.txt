@@ -239,6 +239,15 @@ C. Each cell in an academic level is at 3% higher than the previous cell in that
 d. The Index of Rationalization (IOR) is 2.67 for present AGP less than Rs.10, 000 and 2.72 for the
 AGP of Rs.10,000 and above.
 e. The entry pay for each level is as follows:
+------------------------------------------------
+| Level | Academic Grade Pay (Rs.) | Entry Pay (Rs.) |
+| 10 | 6,000 | 21,600 |
+| 11 | 7,000 | 25,790 |
+| 12 | 8,000 | 29,900 |
+| 13A | 9,000 | 49,200 |
+| 14 | 10,000 | 53,000 |
+| 15 |  | 67,000 |
+------------------------------------------------
 f. The Pay matrix based on the above propositions on Academic Levels, Cells and Entry Pay is at Appendix –I
 g. For fixation of pay of an employee in the Pay Matrix as on 1st January, 2016, the existing pay (Pay in Pay
 Band plus Academic Grade Pay) in the pre-revised structure as on 31st December, 2015 shall be multiplied by
@@ -253,7 +262,23 @@ than the first cell in that Academic Level, then the pay shall be fixed at the f
 If a situation arises whenever more than two stages are bunched together, one additional increment equal to 3
 percent may be given for every two stages bunched, and pay fixed in the subsequent cell in the pay matrix.
 (ii) Revised Pay for Teachers in Colleges
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+| Existing pay | Revised pay |
+| Assistant Professor (at Rs. 6,000 AGP in PB Rs. 15,600-39,100) | Assistant Professor (at Academic Level 10 with rationalized entry pay of Rs.57,700/-) |
+| Assistant Professor (at Rs. 7,000 AGP in PB Rs. 15,600-39,100) | Assistant Professor (at Academic Level 11 with rationalized entry pay of Rs.68,900/-) |
+| Assistant Professor (at Rs. 8,000 AGP in PB Rs. 15,600-39,100) | Assistant Professor (at Academic Level 12 with rationalized entry pay of Rs.79,800/-) |
+| Associate Professor (at Rs. 9,000 AGP in PB Rs. 37,400-67,000) | Associate Professor (at Academic Level 13A with rationalized entry pay of Rs. 1,31,400/-) |
+| Professor (at Rs.10,000 AGP in PB Rs. 37,400-67,000) | Professor (at Academic Level 14 with rationalized entry pay of Rs. 1,44,200/-) |
+| Professor (HAG Scale/PB of Rs. 67,000-79,000) | Professor (at Academic Level 15 with rationalized entry pay of Rs.1,82,200/-) |
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 (iii) Revised Pay for Librarians in Colleges
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Existing pay | Revised pay |
+| College Librarian (at Rs. 6,000 AGP in PB Rs. 15,600-39,100) | College Librarian (at Academic Level 10 with rationalized entry pay of Rs.57,700/-) |
+| College Librarian (Senior Scale) (at Rs. 7,000 AGP in PB Rs. 15,600-39,100) | College Librarian (Senior Scale) (at Academic Level 11 with rationalized entry pay of Rs.68,900/-) |
+| College Librarian (Selection Grade) (at Rs. 8,000 AGP in PB Rs. 15,600-39,100) | College Librarian (Selection Grade) (at Academic Level 12 with rationalized entry pay of Rs.79,800/-) |
+| College Librarian (Selection Grade) (at Rs. 9,000 AGP in PB Rs. 37,400-67,000) | College Librarian (Selection Grade) (at Academic Level 13A with rationalized entry pay of Rs.1,31,400/-) |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 8.0. Revised Pay of Principals in Colleges
 The Pay of Principals in Under Graduate and Post Graduate Colleges shall be:
 Page 9 of 30
