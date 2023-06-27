@@ -15,7 +15,6 @@ All the data is available in the (flow/writeTxt_/output/) folder and it contains
 
 The data is currently not relased through PyPI once advanced informaion is extracted the data will be released on PyPI.
 
-
 ## Data Details
 - **First Order:** [201912051107011622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201912051107011622.pdf) (03 December 2019)
 - **Last Order:** [202306221453358622.pdf](https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202306221453358622.pdf) (21 June 2023)
